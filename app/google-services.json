@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367372396657",
+    "project_id": "appquanlythoigian",
+    "storage_bucket": "appquanlythoigian.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367372396657:android:6d2733d105314f4d9c93d0",
+        "android_client_info": {
+          "package_name": "com.example.appquanlythoigian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3UdRDuIZtfYhmY3Qvte2xEB5c9ITsk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
